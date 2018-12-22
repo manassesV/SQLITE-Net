@@ -1,0 +1,8 @@
+M:\SQLLite\SQLLite\SQLLite\bin\Debug\netstandard2.0\SQLLite.deps.json
+M:\SQLLite\SQLLite\SQLLite\bin\Debug\netstandard2.0\SQLLite.dll
+M:\SQLLite\SQLLite\SQLLite\obj\Debug\netstandard2.0\SQLLite.csprojAssemblyReference.cache
+M:\SQLLite\SQLLite\SQLLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+M:\SQLLite\SQLLite\SQLLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+M:\SQLLite\SQLLite\SQLLite\obj\Debug\netstandard2.0\SQLLite.csproj.CoreCompileInputs.cache
+M:\SQLLite\SQLLite\SQLLite\obj\Debug\netstandard2.0\SQLLite.AssemblyInfoInputs.cache
+M:\SQLLite\SQLLite\SQLLite\obj\Debug\netstandard2.0\SQLLite.AssemblyInfo.cs
